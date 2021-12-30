@@ -22,6 +22,20 @@ Thanks for visiting this blog!
 
 Work in progress...
 
+## Youtube Videos
+
+Typing `> youtube: https://youtu.be/XfoYk_Z5AkI` will render this:
+
+## Tweetcards
+
+Typing `> twitter: https://twitter.com/jakevdp/status/1204765621767901185?s=20` will render this:
+
+### Local Images
+
+You can reference local images and they will be copied and rendered on your blog automatically.  You can include these with the following markdown syntax:
+
+`![](images/blog_post_images/test_image.png)`
+
 ## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
