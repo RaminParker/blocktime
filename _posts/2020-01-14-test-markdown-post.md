@@ -24,11 +24,11 @@ Work in progress...
 
 ## Youtube Videos
 
-youtube: https://youtu.be/Ai5z2T4WhWg
+> youtube: https://youtu.be/Ai5z2T4WhWg
 
 ## Tweetcards
 
-twitter: https://twitter.com/KevinBenz1992/status/1447962899742351365
+> twitter: https://twitter.com/KevinBenz1992/status/1447962899742351365
 
 
 ## Basic setup
