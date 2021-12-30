@@ -78,7 +78,7 @@ And a numbered list:
 
 Das ist ein weiteres Bild:
 
-![]({{ site.baseurl }}/images/logo.png "Das ist mein zweites Logo")
+![]({{ site.baseurl }}/images/logo_blocktime.png "Das ist mein zweites Logo")
 
 ## Code
 
