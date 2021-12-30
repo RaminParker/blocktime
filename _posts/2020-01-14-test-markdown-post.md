@@ -24,17 +24,12 @@ Work in progress...
 
 ## Youtube Videos
 
-Typing `> youtube: https://youtu.be/XfoYk_Z5AkI` will render this:
+youtube: https://youtu.be/Ai5z2T4WhWg
 
 ## Tweetcards
 
-Typing `> twitter: https://twitter.com/jakevdp/status/1204765621767901185?s=20` will render this:
+twitter: https://twitter.com/KevinBenz1992/status/1447962899742351365
 
-### Local Images
-
-You can reference local images and they will be copied and rendered on your blog automatically.  You can include these with the following markdown syntax:
-
-`![](images/blog_post_images/test_image.png)`
 
 ## Basic setup
 
@@ -76,7 +71,7 @@ And a numbered list:
 
 ## Images
 
-![]({{ site.baseurl }}/images/logo.png "fast.ai's logo")
+![]({{ site.baseurl }}/images/logo_blocktime.png "Das ist mein Logo")
 
 ## Code
 
