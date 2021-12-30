@@ -6,6 +6,7 @@ categories: [introduction, bitcoin impact, big picture]
 title: An Example Markdown Post
 image: images/blog_post_images/welcome.png
 comments: true
+author: Ramin Parker
 ---
 # Example Markdown Post
 
@@ -24,11 +25,13 @@ Work in progress...
 
 ## Youtube Videos
 
-> youtube: https://youtu.be/Ai5z2T4WhWg
+A more in-depth explanation about the above project can be viewed in this video:
+
+{% include youtube.html content="https://youtu.be/Ll50l3fsoYs" %}
 
 ## Tweetcards
 
-> twitter: https://twitter.com/KevinBenz1992/status/1447962899742351365
+<center>{% twitter https://twitter.com/jeremyphoward/status/1232059428238581760?s=20 %}</center>
 
 
 ## Basic setup
