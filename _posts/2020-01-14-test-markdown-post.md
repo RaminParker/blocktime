@@ -74,7 +74,7 @@ And a numbered list:
 
 ## Images
 
-![]({{ site.baseurl }}/images/logo_blocktime.png "Das ist mein Logo")
+![](/images/logo_blocktime.png)
 
 ## Code
 
