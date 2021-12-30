@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: A minimal example of using markdown with fastpages.
-categories: [introduction]
+categories: [introduction, bitcoin impact, big picture]
 title: An Example Markdown Post
 image: images/blog_post_images/welcome.png
 comments: true
