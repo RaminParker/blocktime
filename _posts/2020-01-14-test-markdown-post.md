@@ -13,7 +13,7 @@ author: Ramin Parker
 
 ## Welcome to this blog
 
-Hey everyone, welcome to my blog. I finally took the leap and set up my blog, and after a lot of thinking, I finally decided to create a blog.
+Hey everyone, welcome to my blog. This is just a test. I finally took the leap and set up my blog, and after a lot of thinking, I finally decided to create a blog.
 
 Why a blog? Well among a lot of other reasons, like not forgetting what I learn from time to time, and to keep track of my journey as a Software Development Engineer. The other huge reason is that I love to learn new things, research the ones I find interesting, and I plan to document and share my learnings via blog posts, which can be easily found and referred to later as well. I'll try to share things I learn about Software Development, my interests in Data Science and all the other random things I encounter. Hopefully, other people will also find these posts helpful, relevant or interesting. 
 
