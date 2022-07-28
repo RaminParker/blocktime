@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: A minimal example of using markdown with fastpages.
 categories: [introduction, bitcoin impact, big picture]
-title: An Example Markdown Post
+title: Erster Test für Überschrift
 image: images/blog_post_images/welcome.png
 comments: true
 author: Ramin Parker
@@ -11,7 +11,9 @@ author: Ramin Parker
 # Example Markdown Post
 
 
-## Welcome to this blog
+## Das ist eine Überschrift
+
+Die ersten Artikel sind bereits in der Pipeline und müssen nur noch im Format angepasst werden.
 
 Hey everyone, welcome to my blog. This is just a test. I finally took the leap and set up my blog, and after a lot of thinking, I finally decided to create a blog.
 
